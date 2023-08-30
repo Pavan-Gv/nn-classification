@@ -14,16 +14,18 @@ You are required to help the manager to predict the right group of the new custo
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+![DL EX2](https://github.com/Pavan-Gv/nn-classification/assets/94827772/daa42f24-c03f-455b-ba8c-7ea267947e77)
+
 
 ## DESIGN STEPS
 
-### STEP 1:
-
-### STEP 2:
-
-### STEP 3:
-Write your own steps
+<b>STEP 1:</b> Import the required packages
+STEP 2: Import the dataset to manipulate on
+STEP 3: Clean the dataset and split to training and testing data
+STEP 4: Create the Model and pass appropriate layer values according the input and output data
+STEP 5: Compile and fit the model
+STEP 6: Load the dataset into the model
+STEP 7: Test the model by predicting and output
 
 ## PROGRAM
 
